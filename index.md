@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 # Hi! I'm Fifi. Nice to meet you!
 I'm writing my first blog on Github Pages
 ***
